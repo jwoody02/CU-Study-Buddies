@@ -9,21 +9,45 @@
 /* Begin PBXBuildFile section */
 		178BE4EF2B1FA95600245BA5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE4EE2B1FA95600245BA5 /* AppDelegate.swift */; };
 		178BE4F12B1FA95600245BA5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE4F02B1FA95600245BA5 /* SceneDelegate.swift */; };
-		178BE4F32B1FA95600245BA5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE4F22B1FA95600245BA5 /* ViewController.swift */; };
+		178BE4F32B1FA95600245BA5 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE4F22B1FA95600245BA5 /* LoginViewController.swift */; };
 		178BE4F62B1FA95600245BA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 178BE4F42B1FA95600245BA5 /* Main.storyboard */; };
 		178BE4F82B1FA95800245BA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 178BE4F72B1FA95800245BA5 /* Assets.xcassets */; };
 		178BE4FB2B1FA95800245BA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 178BE4F92B1FA95800245BA5 /* LaunchScreen.storyboard */; };
+		178BE5052B1FAA4900245BA5 /* Colorado_Buffaloes_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 178BE5032B1FAA4900245BA5 /* Colorado_Buffaloes_logo.png */; };
+		178BE5062B1FAA4900245BA5 /* cu-standalone.webp in Resources */ = {isa = PBXBuildFile; fileRef = 178BE5042B1FAA4900245BA5 /* cu-standalone.webp */; };
+		178BE50B2B1FAAA900245BA5 /* Comfortaa-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 178BE5082B1FAAA900245BA5 /* Comfortaa-VariableFont_wght.ttf */; };
+		178BE50C2B1FAAA900245BA5 /* Comfortaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE5092B1FAAA900245BA5 /* Comfortaa.swift */; };
+		178BE50D2B1FAAA900245BA5 /* Comfortaa-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 178BE50A2B1FAAA900245BA5 /* Comfortaa-Bold.ttf */; };
+		178BE50F2B1FAACB00245BA5 /* FontSizeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE50E2B1FAACB00245BA5 /* FontSizeManager.swift */; };
+		178BE5122B1FABCA00245BA5 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE5112B1FABCA00245BA5 /* HomeViewController.swift */; };
+		178BE5152B1FADCC00245BA5 /* StudySession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE5142B1FADCC00245BA5 /* StudySession.swift */; };
+		178BE5172B1FADD600245BA5 /* Organizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE5162B1FADD600245BA5 /* Organizer.swift */; };
+		178BE5192B1FADEB00245BA5 /* Attendee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE5182B1FADEB00245BA5 /* Attendee.swift */; };
+		178BE51B2B1FADFC00245BA5 /* MeetupType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE51A2B1FADFC00245BA5 /* MeetupType.swift */; };
+		178BE51E2B1FAE0E00245BA5 /* StudySessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178BE51D2B1FAE0E00245BA5 /* StudySessionManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		178BE4EB2B1FA95600245BA5 /* CU Study Buddies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CU Study Buddies.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		178BE4EE2B1FA95600245BA5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		178BE4F02B1FA95600245BA5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		178BE4F22B1FA95600245BA5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		178BE4F22B1FA95600245BA5 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		178BE4F52B1FA95600245BA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		178BE4F72B1FA95800245BA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		178BE4FA2B1FA95800245BA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		178BE4FC2B1FA95800245BA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		178BE5032B1FAA4900245BA5 /* Colorado_Buffaloes_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Colorado_Buffaloes_logo.png; sourceTree = "<group>"; };
+		178BE5042B1FAA4900245BA5 /* cu-standalone.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = "cu-standalone.webp"; sourceTree = "<group>"; };
+		178BE5082B1FAAA900245BA5 /* Comfortaa-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		178BE5092B1FAAA900245BA5 /* Comfortaa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Comfortaa.swift; sourceTree = "<group>"; };
+		178BE50A2B1FAAA900245BA5 /* Comfortaa-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comfortaa-Bold.ttf"; sourceTree = "<group>"; };
+		178BE50E2B1FAACB00245BA5 /* FontSizeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontSizeManager.swift; sourceTree = "<group>"; };
+		178BE5112B1FABCA00245BA5 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		178BE5142B1FADCC00245BA5 /* StudySession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudySession.swift; sourceTree = "<group>"; };
+		178BE5162B1FADD600245BA5 /* Organizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Organizer.swift; sourceTree = "<group>"; };
+		178BE5182B1FADEB00245BA5 /* Attendee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Attendee.swift; sourceTree = "<group>"; };
+		178BE51A2B1FADFC00245BA5 /* MeetupType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetupType.swift; sourceTree = "<group>"; };
+		178BE51D2B1FAE0E00245BA5 /* StudySessionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudySessionManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +80,67 @@
 		178BE4ED2B1FA95600245BA5 /* CU Study Buddies */ = {
 			isa = PBXGroup;
 			children = (
+				178BE51C2B1FAE0100245BA5 /* Managers */,
+				178BE5132B1FADBE00245BA5 /* Data Models */,
+				178BE5102B1FABBC00245BA5 /* View Controllers */,
+				178BE5072B1FAAA900245BA5 /* Fonts */,
+				178BE5022B1FAA4000245BA5 /* Images */,
 				178BE4EE2B1FA95600245BA5 /* AppDelegate.swift */,
 				178BE4F02B1FA95600245BA5 /* SceneDelegate.swift */,
-				178BE4F22B1FA95600245BA5 /* ViewController.swift */,
 				178BE4F42B1FA95600245BA5 /* Main.storyboard */,
 				178BE4F72B1FA95800245BA5 /* Assets.xcassets */,
 				178BE4F92B1FA95800245BA5 /* LaunchScreen.storyboard */,
 				178BE4FC2B1FA95800245BA5 /* Info.plist */,
 			);
 			path = "CU Study Buddies";
+			sourceTree = "<group>";
+		};
+		178BE5022B1FAA4000245BA5 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				178BE5032B1FAA4900245BA5 /* Colorado_Buffaloes_logo.png */,
+				178BE5042B1FAA4900245BA5 /* cu-standalone.webp */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		178BE5072B1FAAA900245BA5 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				178BE5082B1FAAA900245BA5 /* Comfortaa-VariableFont_wght.ttf */,
+				178BE5092B1FAAA900245BA5 /* Comfortaa.swift */,
+				178BE50A2B1FAAA900245BA5 /* Comfortaa-Bold.ttf */,
+				178BE50E2B1FAACB00245BA5 /* FontSizeManager.swift */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		178BE5102B1FABBC00245BA5 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				178BE4F22B1FA95600245BA5 /* LoginViewController.swift */,
+				178BE5112B1FABCA00245BA5 /* HomeViewController.swift */,
+			);
+			path = "View Controllers";
+			sourceTree = "<group>";
+		};
+		178BE5132B1FADBE00245BA5 /* Data Models */ = {
+			isa = PBXGroup;
+			children = (
+				178BE5142B1FADCC00245BA5 /* StudySession.swift */,
+				178BE5162B1FADD600245BA5 /* Organizer.swift */,
+				178BE5182B1FADEB00245BA5 /* Attendee.swift */,
+				178BE51A2B1FADFC00245BA5 /* MeetupType.swift */,
+			);
+			path = "Data Models";
+			sourceTree = "<group>";
+		};
+		178BE51C2B1FAE0100245BA5 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				178BE51D2B1FAE0E00245BA5 /* StudySessionManager.swift */,
+			);
+			path = Managers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +204,10 @@
 				178BE4FB2B1FA95800245BA5 /* LaunchScreen.storyboard in Resources */,
 				178BE4F82B1FA95800245BA5 /* Assets.xcassets in Resources */,
 				178BE4F62B1FA95600245BA5 /* Main.storyboard in Resources */,
+				178BE5052B1FAA4900245BA5 /* Colorado_Buffaloes_logo.png in Resources */,
+				178BE50B2B1FAAA900245BA5 /* Comfortaa-VariableFont_wght.ttf in Resources */,
+				178BE5062B1FAA4900245BA5 /* cu-standalone.webp in Resources */,
+				178BE50D2B1FAAA900245BA5 /* Comfortaa-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +218,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				178BE4F32B1FA95600245BA5 /* ViewController.swift in Sources */,
+				178BE4F32B1FA95600245BA5 /* LoginViewController.swift in Sources */,
+				178BE51B2B1FADFC00245BA5 /* MeetupType.swift in Sources */,
+				178BE51E2B1FAE0E00245BA5 /* StudySessionManager.swift in Sources */,
+				178BE5152B1FADCC00245BA5 /* StudySession.swift in Sources */,
+				178BE50F2B1FAACB00245BA5 /* FontSizeManager.swift in Sources */,
+				178BE5172B1FADD600245BA5 /* Organizer.swift in Sources */,
 				178BE4EF2B1FA95600245BA5 /* AppDelegate.swift in Sources */,
+				178BE50C2B1FAAA900245BA5 /* Comfortaa.swift in Sources */,
+				178BE5192B1FADEB00245BA5 /* Attendee.swift in Sources */,
 				178BE4F12B1FA95600245BA5 /* SceneDelegate.swift in Sources */,
+				178BE5122B1FABCA00245BA5 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
